@@ -20,6 +20,6 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
-    <PackageReference Include="Node.js" Version="4.1.0" />
+    <PackageReference Include="Node.js" Version="4.2.3" />
   </ItemGroup>
 </Project>
